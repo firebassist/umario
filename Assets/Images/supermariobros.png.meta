@@ -1,0 +1,286 @@
+fileFormatVersion: 2
+guid: a922b293d516b5e41886e297615a2ed4
+timeCreated: 1434884062
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Player
+    21300002: Brick_Brown
+    21300004: Ground
+    21300006: Plant
+    21300008: Player_Walking_1
+    21300010: Player_Walking_2
+    21300012: Player_Walking_3
+    21300014: Player_Jumping
+    21300016: Coin_1
+    21300018: Goomba_1
+    21300020: Goomba_2
+    21300022: Fireball_1
+    21300024: Level_Exit
+    21300026: Fire_Attack
+    21300028: Coin_2
+    21300030: Coin_3
+    21300032: 1Up
+    21300034: Hill_Small
+    21300036: Pipe
+    21300038: Pipe_Short
+    21300040: Player_Dying
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 0
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 32
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Player
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 775
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 2, y: 0, z: 0, w: 2}
+    - name: Brick_Brown
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 1645
+        width: 34
+        height: 33
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Ground
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 1540
+        width: 33
+        height: 34
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 2, y: 0, z: 0, w: 0}
+    - name: Plant
+      rect:
+        serializedVersion: 2
+        x: 791
+        y: 340
+        width: 33
+        height: 46
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Player_Walking_1
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 775
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Player_Walking_2
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 776
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Player_Walking_3
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 775
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Player_Jumping
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 776
+        width: 34
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Coin_1
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 1568
+        width: 20
+        height: 30
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Goomba_1
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 358
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Goomba_2
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 358
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Fireball_1
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 147
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Level_Exit
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 1319
+        width: 165
+        height: 172
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Fire_Attack
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 213
+        width: 48
+        height: 17
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Coin_2
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 1568
+        width: 20
+        height: 30
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Coin_3
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 1568
+        width: 20
+        height: 30
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 1Up
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 1646
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Hill_Small
+      rect:
+        serializedVersion: 2
+        x: 633
+        y: 1531
+        width: 96
+        height: 41
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pipe
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 1080
+        width: 65
+        height: 138
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Pipe_Short
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 1149
+        width: 65
+        height: 68
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Player_Dying
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 776
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
